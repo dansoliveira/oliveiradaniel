@@ -1,0 +1,38 @@
+body {
+  background-image: url('https://www.wethetalent.co/wp-content/uploads/2015/05/1400_700-Q8gA0YeaskPak6UY77BXMnrOA4WpMCCXVKdmRxyD6tfDafw50mYBah41r90C9Jww.jpg');
+  background-size: auto 100vh;
+  height: 100vh;
+  font-family: Arial;
+}
+
+.menu {
+  background-color: white;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+a {
+  color: #1482c7;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+  color: whitesmoke;
+  text-align: center;
+}
+
+.site-subtitle {
+  font-style: italic;
+}
